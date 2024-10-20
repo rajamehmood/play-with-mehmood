@@ -1,0 +1,32 @@
+*{
+  margin:0px;
+  padding:0px;
+  box-sizing:border-box;
+}
+body{
+  text-align: center;
+}
+ .btn{
+  width:100px;
+  width:100px;
+  border: none;
+  margin:8px;
+  background-color: lightgreen;
+  /* border-radius:50px; */
+  clip-path: circle();
+  cursor: pointer;
+} 
+.choice-img{
+  height:75px;
+}
+.btn1{
+  width:150px;
+  height:30px;
+  font-size:16px;
+  font-weight:700;
+  background-color: lightgreen;
+  color:white;
+  border:none;
+  margin-top:20px;
+  border-radius: 5px;
+}
